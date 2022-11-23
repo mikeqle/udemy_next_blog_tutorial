@@ -1,9 +1,9 @@
 ---
 title: "Getting started with NextJs 3"
-date: "2022-10-10"
+date: "2022-10-13"
 image: getting-started-nextjs.png
 excerpt: Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet nobis ad quaerat modi quibusdam itaque at vitae voluptatibus, similique deleniti.
-isFeatured: false
+isFeatured: true
 ---
 
 # This is a title
