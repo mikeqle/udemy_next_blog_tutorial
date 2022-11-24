@@ -6,6 +6,6 @@ excerpt: Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet nobis ad 
 isFeatured: true
 ---
 
-# This is a title
+# This is a title 1
 
 This is some regular text with a [link](https://google.com)
